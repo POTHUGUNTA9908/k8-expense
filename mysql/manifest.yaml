@@ -23,4 +23,4 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: pothugunta/mysql:1.0.0
+          image: joindevops/mysql:1.0.0
